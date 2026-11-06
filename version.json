@@ -1,8 +1,8 @@
 {
-  "latest_version": "1.0.0",
-  "latest_build": 1,
+  "latest_version": "1.0.1",
+  "latest_build": 2,
   "min_build": 1,
   "android_url": "https://github.com/its-toxic/wish-studio-updates/releases/latest/download/WishStudio.apk",
   "windows_url": "",
-  "notes_ar": "أول نسخة من Wish Studio"
+  "notes_ar": "شاشة دخول جديدة وتحسينات عامة"
 }
